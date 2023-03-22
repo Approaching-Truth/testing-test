@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/addtest/__init__.py
+src/addtest/add.py
+src/addtest/py.typed
+src/addtest.egg-info/PKG-INFO
+src/addtest.egg-info/SOURCES.txt
+src/addtest.egg-info/dependency_links.txt
+src/addtest.egg-info/not-zip-safe
+src/addtest.egg-info/requires.txt
+src/addtest.egg-info/top_level.txt
+tests/test_add.py

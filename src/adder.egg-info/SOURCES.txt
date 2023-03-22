@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/adder.egg-info/PKG-INFO
+src/adder.egg-info/SOURCES.txt
+src/adder.egg-info/dependency_links.txt
+src/adder.egg-info/not-zip-safe
+src/adder.egg-info/requires.txt
+src/adder.egg-info/top_level.txt
+src/addtest/add.py
+test/test_add.py
